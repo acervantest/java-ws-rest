@@ -41,7 +41,7 @@ Import as *Existing Maven Project* and run it on *Server*.
   
     * GET operation, so that you are allowed to see all objects in a list, try to go:                  `http://localhost:8080/restservice/services/studentService/student`, you will see all students, by default there is only one.
     
-    * GET operation, so that you are allowed to see an object from the list, try to go:                  `http://localhost:8080/restservice/services/studentService/student/111`, where 111 es el id for the default student.
+    * GET operation, so that you are allowed to see an object from the list, try to go:                  `http://localhost:8080/restservice/services/studentService/student/111`, where 111 is the id for the default student.
     
     * POST operation, so that you are allowed to add an object to the list, try to go:                  `http://localhost:8080/restservice/services/studentService/student`, adding a Json with the following properties:
 {
